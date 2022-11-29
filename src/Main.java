@@ -16,6 +16,5 @@ public class Main {
         System.out.println(author3.getFirstName() + " " + author3.getLastName() + " - '" + book3.getBookName() + " " + "'" + "," + book3.getPublicationYear());
         book2.setPublicationYear(2000);
         System.out.println(author2.getFirstName() + " " + author2.getLastName() + " - '" + book2.getBookName() + " " + "'" + "," + book2.getPublicationYear());
-
     }
 }
